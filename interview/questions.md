@@ -36,6 +36,12 @@
 	```python
     0 1 2 3
     ```
+* Given a list, print last 3 elements.
+  * Answer: `print l[-3:]`
+
+### Modules
+* How to list all module's sub elements
+  * Answer: `dir(<module name>)`
 
 ### Usefull Resources:
 https://www.toptal.com/python/interview-questions
